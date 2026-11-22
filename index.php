@@ -438,14 +438,6 @@
                         </div>
                     </div>
 
-                    <a href="JioTV-v1.0.0-android-tv.apk" download="JioTV-v1.0.0-android-tv.apk" onclick="showToast('Downloading JioTV-v1.0.0-android-tv.apk...');" class="flex items-center gap-1.5 px-3 md:px-4 py-2 rounded-full text-xs font-bold bg-gradient-to-r from-blue-600 to-indigo-600 text-white hover:brightness-110 shadow-lg active:scale-95 transition-all border border-blue-400/30" title="Download JioTV-v1.0.0-android-tv.apk">
-                        <svg class="w-3.5 h-3.5 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-                            <rect x="2" y="7" width="20" height="15" rx="2" ry="2"></rect>
-                            <polyline points="17 2 12 7 7 2"></polyline>
-                        </svg>
-                        <span>JiO TV Mode Apk for Android TV</span>
-                    </a>
-
                     <button id="install-pwa-btn" class="hidden items-center gap-1.5 px-4 py-2 rounded-full text-xs font-bold bg-gradient-to-r from-brandYellow to-amber-500 text-black hover:brightness-110 shadow-lg active:scale-95 transition-all" onclick="installPWA()">
                         <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
                         Install App
