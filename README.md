@@ -2,7 +2,7 @@
 
 Stream trending movies, web series, TV shows, anime, and regional cinema on Web, Android Smartphones, and Android TV.
 
-🌐 Live Website: https://YOUR-USERNAME.github.io/openworld4all/
+🌐 Live Website: https://thakoralpesh3.github.io/openworld4all/
 
 📥 Direct APK Downloads
 
