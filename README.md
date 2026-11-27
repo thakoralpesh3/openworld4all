@@ -22,8 +22,8 @@ Download the official standalone Android packages directly to your device withou
 
 | Platform / Target | Edition | File | Direct Download Link | Size |
 | :--- | :--- | :--- | :--- | :--- |
-| 📱 **Android Phone & Tablet** | Mobile Edition (Hotstar/Netflix OTT Controls) | `Openworld4All-smartphone.apk` | [⬇️ **Download Smartphone APK**](https://raw.githubusercontent.com/thakoralpesh3/openworld4all/main/Openworld4All-smartphone.apk) | ~248 KB |
-| 📺 **Android TV & FireStick** | TV Remote Edition (Leanback Player OSD & D-Pad) | `Openworld4All-android-tv.apk` | [⬇️ **Download Android TV APK**](https://raw.githubusercontent.com/thakoralpesh3/openworld4all/main/Openworld4All-android-tv.apk) | ~303 KB |
+| 📱 **Android Phone & Tablet** | Mobile Edition (Hotstar/Netflix OTT Controls) | `Openworld4All-smartphone.apk` | [⬇️ **Download Smartphone APK**](https://raw.githubusercontent.com/thakoralpesh3/openworld4all/main/Openworld4All-smartphone.apk) | ~283 KB |
+| 📺 **Android TV & FireStick** | TV Remote Edition (Leanback Player OSD & D-Pad) | `Openworld4All-android-tv.apk` | [⬇️ **Download Android TV APK**](https://raw.githubusercontent.com/thakoralpesh3/openworld4all/main/Openworld4All-android-tv.apk) | ~351 KB |
 
 ### Direct URLs:
 - **📱 Smartphone APK:** `https://raw.githubusercontent.com/thakoralpesh3/openworld4all/main/Openworld4All-smartphone.apk`
